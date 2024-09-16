@@ -1,7 +1,7 @@
 ## Calculadora
 Calculadora em Python feita para a tarefa do Modulo 1 - Lógica de Programação do curso de Análise de Dados pela EBAC. 
 
-O diretório "Calculadora" exibe dois arquivos: 'Calculadora' e 'Calculadorapy', sendo esse último feito no google collab para a atividade 1 e a 'Calculadora' feito atráves do nano dentro do WSL do Linux/Ubuntu. para a atividade 2 do curso de Análise de Dados. 
+O diretório "Calculadora" exibe dois arquivos: 'Calculadora' e 'Calculadorapy', sendo esse último feito no google collab para a atividade 1 e a 'Calculadora' feito atráves do nano dentro do WSL do Linux/Ubuntu. para a atividade 2 do curso de Análise de Dados.
 
 - Para executar a calculadora, os dois arquivos servem e o Script também. O usuário pode fazer o download do arquivo Calculadora e abri-lá através do Python ou copiar o código e executá-lo no Google Collab colando o código. 
   
