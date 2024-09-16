@@ -5,7 +5,8 @@ O diretório "Calculadora" exibe dois arquivos: 'Calculadora' e 'Calculadorapy',
 
 - Para executar a calculadora, os dois arquivos servem e o Script também. O usuário pode fazer o download do arquivo Calculadora e abri-lá através do Python ou copiar o código e executá-lo no Google Collab colando o código. 
   
- -Explicaão da Calculadora e como utiliza-la: após o usuário se identificar com seu nome, será solicitado para ele digitar dois números e em seguida escolher qual operação deseja realizar. Após a operação matemática ser concluída, é adicionado um loop para o usuário refazer as operações quantas vezes quiser, até que ele digite que não deseja mais calcular, quando solicitado. Assim, a calculadora/programa se encerra.
+ Explicação da Calculadora e como utiliza-la
+ - Após o usuário se identificar com seu nome, será solicitado para ele digitar dois números e em seguida escolher qual operação deseja realizar. Após a operação matemática ser concluída, é adicionado um loop para o usuário refazer as operações quantas vezes quiser, até que ele digite que não deseja mais calcular, quando solicitado. Assim, a calculadora/programa se encerra.
    
 Para executar a calculadora através do Script no Ubuntu, primeiro é necessário executar o Script. 
 Veja como executar o Script:
